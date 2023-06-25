@@ -1,0 +1,8 @@
+﻿MFC_Test.obj : error LNK2019: 无法解析的外部符号 "public: virtual __cdecl YES_BUTTON::~YES_BUTTON(void)" (??1YES_BUTTON@@UEAA@XZ)，函数 "public: virtual __cdecl CMFCTestDlg::~CMFCTestDlg(void)" (??1CMFCTestDlg@@UEAA@XZ) 中引用了该符号
+MFC_TestDlg.obj : error LNK2001: 无法解析的外部符号 "public: virtual __cdecl YES_BUTTON::~YES_BUTTON(void)" (??1YES_BUTTON@@UEAA@XZ)
+MFC_Test.obj : error LNK2019: 无法解析的外部符号 "public: virtual __cdecl NO_BUTTON::~NO_BUTTON(void)" (??1NO_BUTTON@@UEAA@XZ)，函数 "public: virtual __cdecl CMFCTestDlg::~CMFCTestDlg(void)" (??1CMFCTestDlg@@UEAA@XZ) 中引用了该符号
+MFC_TestDlg.obj : error LNK2001: 无法解析的外部符号 "public: virtual __cdecl NO_BUTTON::~NO_BUTTON(void)" (??1NO_BUTTON@@UEAA@XZ)
+MFC_TestDlg.obj : error LNK2001: 无法解析的外部符号 "public: void __cdecl CAboutDlg::OnBnClickedButton1(void)" (?OnBnClickedButton1@CAboutDlg@@QEAAXXZ)
+MFC_TestDlg.obj : error LNK2019: 无法解析的外部符号 "public: __cdecl YES_BUTTON::YES_BUTTON(class CWnd *)" (??0YES_BUTTON@@QEAA@PEAVCWnd@@@Z)，函数 "public: __cdecl CMFCTestDlg::CMFCTestDlg(class CWnd *)" (??0CMFCTestDlg@@QEAA@PEAVCWnd@@@Z) 中引用了该符号
+MFC_TestDlg.obj : error LNK2019: 无法解析的外部符号 "public: __cdecl NO_BUTTON::NO_BUTTON(class CWnd *)" (??0NO_BUTTON@@QEAA@PEAVCWnd@@@Z)，函数 "public: __cdecl CMFCTestDlg::CMFCTestDlg(class CWnd *)" (??0CMFCTestDlg@@QEAA@PEAVCWnd@@@Z) 中引用了该符号
+D:\VC++ doc\lession\MFC_Test\x64\Debug\MFC_Test.exe : fatal error LNK1120: 5 个无法解析的外部命令
