@@ -1,0 +1,6 @@
+﻿  MFCuse_FileDlg.cpp
+D:\VC++ doc\lession\MFCuse_File\MFCuse_File\MFCuse_FileDlg.cpp(191,14): error C2039: "wstring": 不是 "std" 的成员
+F:\vs2019\IDE\VC\Tools\MSVC\14.35.32215\include\type_traits(21,1): message : 参见“std”的声明
+D:\VC++ doc\lession\MFCuse_File\MFCuse_File\MFCuse_FileDlg.cpp(191,22): error C2065: “wstring”: 未声明的标识符
+D:\VC++ doc\lession\MFCuse_File\MFCuse_File\MFCuse_FileDlg.cpp(191,22): error C2146: 语法错误: 缺少“;”(在标识符“strFilePath”的前面)
+D:\VC++ doc\lession\MFCuse_File\MFCuse_File\MFCuse_FileDlg.cpp(191,22): error C2065: “strFilePath”: 未声明的标识符
