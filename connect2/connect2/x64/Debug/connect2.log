@@ -1,0 +1,4 @@
+﻿  hjhjd.cpp
+D:\VC++ doc\lession\connect2\connect2\hjhjd.cpp(35,14): warning C4244: “参数”: 从“SOCKET”转换到“int”，可能丢失数据
+D:\VC++ doc\lession\connect2\connect2\hjhjd.cpp(40,22): warning C4244: “参数”: 从“SOCKET”转换到“int”，可能丢失数据
+  connect2.vcxproj -> D:\VC++ doc\lession\connect2\x64\Debug\connect2.exe
