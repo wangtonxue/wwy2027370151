@@ -1,0 +1,7 @@
+﻿  COpenFileDlg.cpp
+  SoftDevelop.cpp
+  SoftDevelopDlg.cpp
+D:\VC++ doc\lession\SoftDevelop\SoftDevelop\SoftDevelopDlg.cpp(71,2): error C2065: “IDC_OpenBut”: 未声明的标识符
+D:\VC++ doc\lession\SoftDevelop\SoftDevelop\SoftDevelopDlg.cpp(72,2): error C2065: “IDC_OpenFile_Edit”: 未声明的标识符
+D:\VC++ doc\lession\SoftDevelop\SoftDevelop\SoftDevelopDlg.cpp(108,33): error C2065: “IDC_OpenFile_Edit”: 未声明的标识符
+  正在生成代码...
